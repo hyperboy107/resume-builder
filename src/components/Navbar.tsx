@@ -27,9 +27,9 @@ const Navbar = () => {
           <a href="" className="hover:text-purple-400 transition-colors">
             Create Portfolio
           </a>
-          <Link to="/login" className="hover:text-purple-400 transition-colors">
+          <a href="https://github.com/hyperboy107/resume-builder" className="hover:text-purple-400 transition-colors">
             Gihub Repo
-          </Link>
+          </a>
           <button
             onClick={toggleTheme}
             className="p-2 rounded-full hover:bg-gray-800 transition-colors"
