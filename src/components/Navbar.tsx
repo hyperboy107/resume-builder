@@ -24,7 +24,7 @@ const Navbar = () => {
         </Link>
         
         <div className="flex items-center space-x-6">
-          <a href="" className="hover:text-purple-400 transition-colors">
+          <a target='blank' href="https://portfolio-generator-blush.vercel.app/" className="hover:text-purple-400 transition-colors">
             Create Portfolio
           </a>
           <a href="https://github.com/hyperboy107/resume-builder" className="hover:text-purple-400 transition-colors">
